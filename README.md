@@ -20,8 +20,8 @@ This mobile application allows users to track their expenses, set a monthly budg
 ## Current Status
 - [x] Wireframe completed
 - [x] Screens created in MIT App Inventor
-- [ ] Reports screen implementation in progress
-- [ ] Polish UI design and testing
+- [x] Reports screen implementation in progress
+- [x] Polish UI design and testing
 
 ## Technologies Used
 - MIT App Inventor
@@ -37,8 +37,7 @@ This mobile application allows users to track their expenses, set a monthly budg
 | 1.3     | Planned    | Full feature test, add data export functionality |
 
 ## Author
-Shane Macsuga  
-Saint Leo University – Software Engineering Capstone  
+Shane Macsuga   
 Spring 2025
 
 ## License
